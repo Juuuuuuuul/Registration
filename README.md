@@ -1,4 +1,4 @@
-## User SignIn and SignOut panel
+## [Python] User SignIn and SignOut panel
 Example of user authorization using django
 
 
